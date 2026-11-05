@@ -4,7 +4,7 @@ class HolaMundo {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(
                 null,
-                "Hola mundo!",
+                "Hola mundo de nuevo!",
                 "Saludo",
                 JOptionPane.INFORMATION_MESSAGE
         );
